@@ -11,6 +11,9 @@
 
 ## Projects
 
+### Day 0
+* [Initial Commit](https://github.com/AbreuOliver/Graphs)
+
 ### Day 1
 * [Graph Traversal and Search](projects/graph)
 
